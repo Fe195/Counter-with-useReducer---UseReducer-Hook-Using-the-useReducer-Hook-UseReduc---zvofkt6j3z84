@@ -20,4 +20,3 @@ const [state,dispatch] = useReducer(counterReducer, initialState)
 
 
 export default App;
-
